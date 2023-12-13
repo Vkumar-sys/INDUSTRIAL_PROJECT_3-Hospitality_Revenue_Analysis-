@@ -84,3 +84,21 @@ Column Description for fact_bookings:
    DBRN(Daily Booked Room Nights),Average Rate,Total Bookings which tells the booking and performance details
    of hotels.
 
+# Key_Insights:-
+✔ Level_1_Analysis:-
+  >>In terms of Revenue by city Mumbai tops the list with  Mumbai having the most revenue at 0.67bn and Delhi being at 
+    bottom at 0.29 bn.
+
+  >>In terms of Occupancy % by city Delhi tops the list with 60.55 % Occupancy  and Bangalore is at the bottom among 
+    the four available cities with 55.77 % Occupancy.
+
+  >>In terms of Average rating by the city Delhi receives the highest rating of 3.8 on an average.
+
+  >>In terms of total bookings Weekdays have more bookings 69.41 % and weekends have 30.59 %.
+
+  >>In terms of Occupancy % Weekends has more Occupancy compared to weekdays but slighty on lower note.
+
+  >>In terms of Cancellation % there is a fifty % share in both the day type.
+
+  
+
