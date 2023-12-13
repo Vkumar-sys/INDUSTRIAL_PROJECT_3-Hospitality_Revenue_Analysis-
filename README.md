@@ -130,7 +130,7 @@ Column Description for fact_bookings:
     resume project challenge 1 where we get to understand the thorough life cycle of a data analytics project and the 
     key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
 
-  # Codebasics Team # Resume Project challenge.
+  # Codebasics Team # Resume Project Challenge.
 
 
 
