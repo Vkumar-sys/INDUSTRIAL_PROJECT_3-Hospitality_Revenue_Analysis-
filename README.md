@@ -86,19 +86,54 @@ Column Description for fact_bookings:
 
 # Key_Insights:-
 ✔ Level_1_Analysis:-
-  >>In terms of Revenue by city Mumbai tops the list with  Mumbai having the most revenue at 0.67bn and Delhi being at 
-    bottom at 0.29 bn.
+  ✔ In terms of Revenue by city Mumbai tops the list with  Mumbai having the most revenue at 0.67 billion and Delhi 
+    being at bottom at 0.29 billion.
 
-  >>In terms of Occupancy % by city Delhi tops the list with 60.55 % Occupancy  and Bangalore is at the bottom among 
+  ✔ In terms of Occupancy % by city Delhi tops the list with 60.55 % Occupancy and Bangalore is at the bottom among 
     the four available cities with 55.77 % Occupancy.
 
-  >>In terms of Average rating by the city Delhi receives the highest rating of 3.8 on an average.
+  ✔ In terms of Average rating by the city Delhi receives the highest rating of 3.8 on an average out of 5.
 
-  >>In terms of total bookings Weekdays have more bookings 69.41 % and weekends have 30.59 %.
+  ✔ In terms of total bookings Weekdays have more bookings standing at 69.41 % and weekends have 30.59 % it indicates 
+     there is more occupancy on Weekdays as apart from commercial customers we have professional customers too
+     who take the accomodation when they are on a work tour.
 
-  >>In terms of Occupancy % Weekends has more Occupancy compared to weekdays but slighty on lower note.
+  ✔ In terms of Occupancy % Weekends has more Occupancy compared to Weekdays but slighty on a lower note.
 
-  >>In terms of Cancellation % there is a fifty % share in both the day type.
+  ✔ In terms of Cancellation % there is a fifty % share in both the day type on approx.
+
+✔ Level 2 Analysis:-
+  ✔ In level 2 analysis we will dive a bit deep on the detailed metrics for the hospitality domain and see its 
+     performance.
+  
+  ✔ In terms of revenue share we can see that luxury category contributes more to the revenue as compared to the 
+     business category so we can tweak the areas lacking performance and look for better performance to get a better
+     share on market.
+
+  ✔ If we see our key metrics RevPar,ADR,Occupancy % trend of 3 months on weekly basis we see that occupancy is 
+     fluctuating which might be possible but the ADR is fixed so we can assume that hotels have fixed or flat pricing.
+
+  ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more         pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
+      ratings.
+  ✔  In terms of few more metrics like DBRN(Daily Booked Room Nights) which tells how many rooms are booked for a day 
+      considering a given time period,DSRN(Daily Sellable Room Nights) which tells how many rooms are ready to sell 
+      for a day considering the time period,DURN(Daily utilized Room Nights) tells that how many rooms are utilized
+      for a day considering the given time period we see that there is a dip in DURN as compared to DSRN and DBRN for 
+      each week of various months so this is an important insight that needs to be looked into from the hospitality 
+      domain to make it at par level.
+
+  # Acknowledgements:-
+
+  ✔ A very sincere and humble thanks to entire codebasics team for providing such a good challenge as part of their
+    resume project challenge where we get to understand the thorough life cycle of a data analytics project and the 
+    key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
+
+  
+
+
+
+  
+
 
   
 
