@@ -103,6 +103,7 @@ Column Description for fact_bookings:
   ✔ In terms of Cancellation % there is a fifty % share in both the day type on approx.
 
 ✔ Level 2 Analysis:-
+
   ✔ In level 2 analysis we will dive a bit deep on the detailed metrics for the hospitality domain and see its 
      performance.
   
@@ -115,6 +116,7 @@ Column Description for fact_bookings:
 
   ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more         pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
       ratings.
+      
   ✔  In terms of few more metrics like DBRN(Daily Booked Room Nights) which tells how many rooms are booked for a day 
       considering a given time period,DSRN(Daily Sellable Room Nights) which tells how many rooms are ready to sell 
       for a day considering the time period,DURN(Daily utilized Room Nights) tells that how many rooms are utilized
@@ -125,7 +127,7 @@ Column Description for fact_bookings:
   # Acknowledgements:-
 
   ✔ A very sincere and humble thanks to entire codebasics team for providing such a good challenge as part of their
-    resume project challenge where we get to understand the thorough life cycle of a data analytics project and the 
+    resume project challenge 1 where we get to understand the thorough life cycle of a data analytics project and the 
     key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
 
   
