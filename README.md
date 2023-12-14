@@ -1,14 +1,12 @@
 # INDUSTRIAL_PROJECT_3-Hospitality_Revenue_Analysis-
 # Problem Statement:-
-✔AtliQ team took some ineffective decision in their past and on the other hand other competetors in hospitality industry,
-  getting success in market and making high revenue due to their strategic moves.AtliQ team wanted to regain their 
-  revenue and market shares.
+✔AtliQ team took some ineffective decision in their past and on the other hand other competetors in hospitality industry,getting success in market and making high revenue due to their strategic moves.AtliQ team wanted to regain their revenue and market shares.
   
 ✔AtliQ has no inhouse data and business analyst team that provide them these insights.
 
 ✔So they planned to hire data analyst or business analyst that provide them useful insights from the historic data.
 
-# Dataset Used:-
+# Datasets Used:-
 ✔We have 5 csv files having 3 dimension and two fact tables.
 1. dim_date
 2. dim_hotels
@@ -62,7 +60,7 @@ Column Description for fact_bookings:
 12. revenue_realized: This column represents the final amount of money that goes to the hotel based on booking status. If the booking status is cancelled, then 40% of the revenue generated is deducted and the remaining is refunded to the customer. If the booking status is Checked Out/No show, then full revenue generated will goes to hotels.
 
 # Tools and Techniques used:-
-✔ Data Gathering using power bi desktop.
+✔ Data fetch using power bi desktop.
 
 ✔ Data Modelling and building the required relationship between the tables for effective visualisation using the 
   power bi desktop data modelling interface.
@@ -81,8 +79,8 @@ Column Description for fact_bookings:
   hotels.
 
 ✔ We can also cover some metrics like Checked Out Rate,Cancellation Rate,No Show Rate,DURN(Daily Utilized Room 
-  Nights),DBRN(Daily Booked Room Nights),Average Rate,Total Bookings which tells the booking and performance details
-  of hotels.
+  Nights),DBRN(Daily Booked Room Nights),DSRN(Daily Sellable Room Nights),Average Rate,Total Bookings which tells the 
+  booking and performance details of hotels.
 
 # Key_Insights:-
 ✔ Level_1_Analysis:-
@@ -90,7 +88,7 @@ Column Description for fact_bookings:
     being at bottom at 0.29 billion.
 
   ✔ In terms of Occupancy % by city Delhi tops the list with 60.55 % Occupancy and Bangalore is at the bottom among 
-    the four available cities with 55.77 % Occupancy.
+    the four available cities with 55.77 % of Occupancy.
 
   ✔ In terms of Average rating by the city Delhi receives the highest rating of 3.8 on an average out of 5.
 
@@ -114,8 +112,9 @@ Column Description for fact_bookings:
   ✔ If we see our key metrics RevPar,ADR,Occupancy % trend of 3 months on weekly basis we see that occupancy is 
      fluctuating which might be possible but the ADR is fixed so we can assume that hotels have fixed or flat pricing.
 
-  ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more         pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
-      ratings.
+  ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more 
+     on pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
+     ratings.
       
   ✔  In terms of few more metrics like DBRN(Daily Booked Room Nights) which tells how many rooms are booked for a day 
       considering a given time period,DSRN(Daily Sellable Room Nights) which tells how many rooms are ready to sell 
@@ -129,6 +128,10 @@ Column Description for fact_bookings:
   ✔ A very sincere and humble thanks to entire codebasics team for providing such a good challenge as part of their
     resume project challenge 1 where we get to understand the thorough life cycle of a data analytics project and the 
     key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
+
+  # Key Note:-For going through all the respective visualisations in the dashboard kindly refer the pbix file 
+              attached above in the files section and Navigate through the dashboard pages for better visualisation
+              aspects and insights.
 
   # Codebasics Team # Resume Project Challenge.
 
