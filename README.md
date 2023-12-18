@@ -1,6 +1,6 @@
 # INDUSTRIAL_PROJECT_3-Hospitality_Revenue_Analysis-
 # Problem Statement:-
-✔AtliQ team took some ineffective decision in their past and on the other hand other competetors in hospitality industry,getting success in market and making high revenue due to their strategic moves.AtliQ team wanted to regain their revenue and market shares.
+✔AtliQ(an imaginary hotels company) team took some ineffective decision in their past and on the other hand other competetors in hospitality industry,getting success in market and making high revenue due to their strategic moves.AtliQ team wanted to regain their revenue and market shares.
   
 ✔AtliQ has no inhouse data and business analyst team that provide them these insights.
 
