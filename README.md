@@ -84,6 +84,7 @@ Column Description for fact_bookings:
 
 # Key_Insights:-
 ✔ Level_1_Analysis:-
+
   ✔ In terms of Revenue by city Mumbai tops the list with  Mumbai having the most revenue at 0.67 billion and Delhi 
     being at bottom at 0.29 billion.
 
@@ -114,7 +115,7 @@ Column Description for fact_bookings:
 
   ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more 
      on pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
-     ratings.
+     customer ratings and feedback.
       
   ✔  In terms of few more metrics like DBRN(Daily Booked Room Nights) which tells how many rooms are booked for a day 
       considering a given time period,DSRN(Daily Sellable Room Nights) which tells how many rooms are ready to sell 
@@ -129,9 +130,12 @@ Column Description for fact_bookings:
     resume project challenge 1 where we get to understand the thorough life cycle of a data analytics project and the 
     key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
 
-  # Key Note:-For going through all the respective visualisations in the dashboard kindly refer the pbix file 
+  #Key Note:-For going through all the respective visualisations in the dashboard kindly refer the pbix file 
               attached above in the files section and Navigate through the dashboard pages for better visualisation
               aspects and insights.
+              
+  #Key Note:-For understanding the detailed meanings of the key terms used kindly refer the file having the DAX 
+             queries attached above and the detailed meanings of the key metrics used above.  
 
   # Codebasics Team # Resume Project Challenge.
 
