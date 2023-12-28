@@ -137,7 +137,7 @@ Column Description for fact_bookings:
   #Key Note:-For understanding the detailed meanings of the key terms used kindly refer the file having the DAX 
              queries attached above and the detailed meanings of the key metrics used above.  
 
-  # Codebasics Team # Resume Project Challenge.
+  # Codebasics Team # Resume Project Challenge # Data Analytics # Business Analytics
 
 
 
