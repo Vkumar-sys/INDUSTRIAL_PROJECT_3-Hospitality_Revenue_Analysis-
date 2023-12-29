@@ -63,6 +63,7 @@ Column Description for fact_bookings:
 # Task List:-
  You are a data analyst provided with sample data and mock-up dashboard to work on the following task.You can 
  download the relevent documents from the download section.
+ 
  ✔Create metrics according to the metric list.
  
  ✔Create dashboard according to the mockup provided by the stakeholders.
