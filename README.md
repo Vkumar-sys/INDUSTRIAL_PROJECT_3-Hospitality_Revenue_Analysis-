@@ -20,7 +20,7 @@ Column Description for dim_date:
 1. date: This column represents the dates present in May, June and July.
 2. mmm yy: This column represents the date in the format of mmm yy (monthname year).
 3. week no: This column represents the unique week number for that particular date.
-4. day_type: This column represents whether the given day is Weekend or Weekeday.
+4. day_type: This column represents whether the given day is Weekend or Weekday.
 
 
 
@@ -70,6 +70,10 @@ Column Description for fact_bookings:
  
  ✔Create relevant insights that are not provided in the metric list/mockup dashboard.
 
+ #Link to the challenge>
+  
+  https://codebasics.io/challenge/codebasics-resume-project-challenge.
+
  # Mock-Up Dashboard Image>
  
  ![mock up dashboard_atliq grands](https://github.com/Vkumar-sys/INDUSTRIAL_PROJECT_3-Hospitality_Revenue_Analysis-/assets/66684700/2ae90a1b-42a1-49eb-8fd3-1b1738fa3f5c)
@@ -83,7 +87,7 @@ Column Description for fact_bookings:
 # Tools and Techniques used>
 ✔ Data ingestion using power bi desktop.
 
-✔ Data Modelling and building the required relationship between the tables for effective visualisation using the 
+✔ Data Modelling and Building the required relationship between the tables for effective visualisation using the 
   power bi desktop data modelling interface.
 
 ✔ Data Cleaning and Transformation using the Power Query Editor inside the power bi desktop.
@@ -103,7 +107,7 @@ Column Description for fact_bookings:
   Nights),DBRN(Daily Booked Room Nights),DSRN(Daily Sellable Room Nights),Average Rate,Total Bookings which tells the 
   booking and performance details of hotels.
 
-# Key_Insights:-
+# Important key insights from the dashboard
 ✔ Level_1_Analysis:-
 
   ✔ In terms of Revenue by city Mumbai tops the list with  Mumbai having the most revenue at 0.67 billion and Delhi 
@@ -116,27 +120,33 @@ Column Description for fact_bookings:
 
   ✔ In terms of total bookings Weekdays have more bookings standing at 69.41 % and weekends have 30.59 % it indicates 
      there is more occupancy on Weekdays as apart from commercial customers we have professional customers too
-     who take the accomodation when they are on a work or professional tour.
+     who take the accomodation when they are on a work or a professional tour.
 
   ✔ In terms of Occupancy % Weekends has more Occupancy compared to Weekdays but slighty on a lower note.
 
-  ✔ In terms of Cancellation % there is a fifty % share in both the day type on approx.
+  ✔ In terms of the % of revenue share Luxury category holds maximum percenatge of revenue standing at 61.61 %.
+
+  ✔ In terms of the property Atliq Exotica performs better compared to all 7 types of properties with highest total 
+    revenue,Occupancy % of 65.92 %,Average Rating of 4.32 with Cancellation rate of 25 %.
+
+  ✔ In terms of Total Capacity,Total Bookings and cancelled bookings Elite category of rooms stands at the peak.
 
 ✔ Level 2 Analysis:-
 
-  ✔ In level 2 analysis we will dive a bit deep on the detailed metrics for the hospitality domain and see its 
+  ✔ In level 2 analysis we will dive a bit deep on the detailed metrics as per the metric list and see its 
      performance.
   
   ✔ In terms of revenue share we can see that luxury category contributes more to the revenue as compared to the 
-     business category so we can tweak the areas lacking performance and look for better performance to get a better
+     business  category so we can tweak the areas lacking performance and look for better performance to get a better
      share on market.
 
   ✔ If we see our key metrics RevPar,ADR,Occupancy % trend of 3 months on weekly basis we see that occupancy is 
-     fluctuating which might be possible but the ADR is fixed so we can assume that hotels have fixed or flat pricing.
+     fluctuating which might be possible but the ADR is fixed so we can assume that hotels have fixed or flat pricing
+     so nature of the pricing is less dynamic
 
   ✔  In hospitality Industry average rating and occupancy % are directly dependent upon each other so not much more 
      on pricing so we have to focus on our services,hotel management and employees behaviour to get better and higher 
-     customer ratings and feedback.
+     customer ratings and feedback which will be a very important metric for our 
       
   ✔  In terms of few more metrics like DBRN(Daily Booked Room Nights) which tells how many rooms are booked for a day 
       considering a given time period,DSRN(Daily Sellable Room Nights) which tells how many rooms are ready to sell 
@@ -151,13 +161,17 @@ Column Description for fact_bookings:
     resume project challenge 1 where we get to understand the thorough life cycle of a data analytics project and the 
     key steps involved at each level and enhancing the domain knowledge too of our hospitality industry.
 
-  #Key Note:- For going through all the respective visualisations in the dashboard kindly download the pbix file 
+  #Key Note:- For going through all the datasets used in this project kindly refer the files attached above in the 
+              files section
+
+  #Key Note:- For referring the DAX Calculated columns and Measures list kindly see the file attached above in the 
+              files section named as Metric_List
+
+  #Key Note:- For going through all the respective visualisations in the dashboard kindly download the .pbix file 
               locally attached above in the files section and Navigate through the dashboard pages for better 
               visualisation aspects and insights.
               
-  #Key Note:-For understanding the detailed meanings of the key terms used kindly refer the file having the DAX 
-             queries used to build calculated columns and measures and detailed description of the files is attched 
-             there 
+ 
 
   # Codebasics Team # Resume Project Challenge # Data Analytics # Business Analytics
 
