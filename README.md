@@ -134,6 +134,8 @@ Column Description for fact_bookings:
 
   ✔ In terms of Total Capacity,Total Bookings and cancelled bookings Elite category of rooms stands at the peak.
 
+  ✔ Week 24 recorded the highest revenue among all the available weeks.
+
 ✔ Level 2 Analysis:-
 
   ✔ In level 2 analysis we will dive a bit deep on the detailed metrics as per the metric list and see its 
