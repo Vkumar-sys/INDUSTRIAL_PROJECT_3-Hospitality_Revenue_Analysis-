@@ -80,8 +80,8 @@ Column Description for fact_bookings:
 
  # Data Model View>
  
- ![Data_Model_Image](https://github.com/Vkumar-sys/INDUSTRIAL_PROJECT_3- 
- Hospitality_Revenue_Analysis-/assets/66684700/bd87a3a9-c373-49f4-95a1-7d1b674c1613)
+ ![Data_Model_Image](https://github.com/Vkumar-sys/INDUSTRIAL_PROJECT_3- Hospitality_Revenue_Analysis-/assets/66684700/36bcb28e-4791-4898-8bd3-917120d33263)
+
 
  
 # Tools and Techniques used>
