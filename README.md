@@ -70,7 +70,7 @@ Column Description for fact_bookings:
  
  ✔Create relevant insights that are not provided in the metric list/mockup dashboard.
 
- #Link to the challenge>
+ # Link to the challenge>
   
   https://codebasics.io/challenge/codebasics-resume-project-challenge.
 
@@ -80,7 +80,8 @@ Column Description for fact_bookings:
 
  # Data Model View>
  
- ![Data_Model_Image](https://github.com/Vkumar-sys/INDUSTRIAL_PROJECT_3-Hospitality_Revenue_Analysis-/assets/66684700/43fbac4c-4e83-4f1c-8482-471031153c4b)
+ ![Data_Model_Image](https://github.com/Vkumar-sys/INDUSTRIAL_PROJECT_3- 
+ Hospitality_Revenue_Analysis-/assets/66684700/43fbac4c-4e83-4f1c-8482-471031153c4b)
 
    
 
